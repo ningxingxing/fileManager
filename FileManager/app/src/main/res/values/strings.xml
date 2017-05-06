@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FileManager</string>
+
+    <!--mainActivity-->
+    <string name="file_image">图片</string>
+    <string name="file_video">视频</string>
+    <string name="file_audio">音频</string>
+    <string name="file_doc">文档</string>
+    <string name="file_zip">压缩包</string>
+    <string name="file_apk">安装包</string>
+    <string name="file_bluetooth">蓝牙</string>
+    <string name="file_download">下载</string>
+    <string name="file_collection">收藏夹</string>
+    <string name="file_secrecy">保密文件</string>
+    <string name="file_all">全部文件</string>
+    <string name="file_lately">最近添加</string>
+    <string name="file_remote">远程管理</string>
+    <string name="file_memory">手机存储</string>
+    <string name="file_all_memory">共64GB</string>
+    <string name="file_use">可用</string>
+    <string name="file_gb">GB</string>
+    <string name="file_clear">立即清理</string>
+    <string name="menu_select">选择</string>
+    <string name="menu_sort">排序</string>
+    <string name="sort_name">名称</string>
+    <string name="sort_time">时间</string>
+    <string name="sort_type">类型</string>
+    <string name="sort_size">大小</string>
+    <string name="sort">排序方式</string>
+
+</resources>
